@@ -1,1 +1,17 @@
+Final project done for the completion of "Machine Learning with Python" course on Coursera.
 
+
+This dataset is about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted. Description of the data-set is provided below.
+
+Loan_status	    >>  Whether a loan is paid off on in collection
+Principal	      >>  Basic principal loan amount at the
+Terms	          >>  Origination terms which can be weekly (7 days), biweekly, and monthly payoff schedule
+Effective_date	>>  When the loan got originated and took effects
+Due_date	      >>  Since it’s one-time payoff schedule, each loan has one single due date
+Age	            >>  Age of applicant
+Education	      >>  Education of applicant
+Gender	        >>  The gender of applicant
+
+
+In this project, an accuracy comparison of four classification model is done. These four classification models are, KNN classifier, support vector machines, decision-tree classifier and logistic regression classifier. 
+Two seprate data-sets are used for this project, load_train.csv is used to train the model and load_test.csv is used for accuracy measurements.
