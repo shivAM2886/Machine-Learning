@@ -5,14 +5,29 @@ This dataset is about past loans. The Loan_train.csv data set includes details o
 whose loan are already paid off or defaulted. Description of the data-set is provided below.
 
 
-Loan_status	    >>  Whether a loan is paid off on in collection
-Principal	      >>  Basic principal loan amount at the
-Terms	          >>  Origination terms which can be weekly (7 days), biweekly, and monthly payoff schedule
-Effective_date	>>  When the loan got originated and took effects
-Due_date	      >>  Since it’s one-time payoff schedule, each loan has one single due date
-Age	            >>  Age of applicant
-Education	      >>  Education of applicant
-Gender	        >>  The gender of applicant
+Loan_status
+Whether a loan is paid off on in collection
+
+Principal
+Basic principal loan amount at the
+
+Terms	   
+Origination terms which can be weekly (7 days), biweekly, and monthly payoff schedule
+
+Effective_date	
+When the loan got originated and took effects
+
+Due_date	      
+Since it’s one-time payoff schedule, each loan has one single due date
+
+Age	            
+Age of applicant
+
+Education	      
+Education of applicant
+
+Gender	        
+The gender of applicant
 
 
 In this project, an accuracy comparison of four classification model is done. These four classification models are, 
