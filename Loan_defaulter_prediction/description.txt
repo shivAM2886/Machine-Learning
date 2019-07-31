@@ -3,14 +3,12 @@ Final project done for the completion of "Machine Learning with Python" course o
 
 This dataset is about past loans. The Loan_train.csv data set includes details of 346 customers
 whose loan are already paid off or defaulted. Description of the data-set is provided below.
-
 In this project, an accuracy comparison of four classification model is done. These four classification models are, 
 KNN classifier, support vector machines, decision-tree classifier and logistic regression classifier. 
-
 Two seprate data-sets are used for this project, load_train.csv is used to train the model and load_test.csv is 
 used for accuracy measurements.
 
-Loan_status
+Loan_status 
 Whether a loan is paid off on in collection
 
 Principal
