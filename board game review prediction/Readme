@@ -1,1 +1,5 @@
+In this project average rating of board games is predicted using other independent variables. The regression for the average rating is done 
+using Randomforest, KNN & linear regression models. Their performance is compared with each other.
 
+The data-set is scraped by Sean Beck, github username "ThaWeatherman", (https://github.com/ThaWeatherman).
+Description of the steps and analysis can be found on the uploaded notebook.
