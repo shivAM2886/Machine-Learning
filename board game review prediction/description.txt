@@ -1,0 +1,27 @@
+This file contains the dscription of the data-set used.
+Data set contains more than 80k rows. Total no of features is 20.
+
+Feature names:
+
+
+id
+type
+name
+yearpublished
+minplayers
+maxplayers
+playingtime
+minplaytime
+maxplaytime
+minage
+users_rated
+average_rating
+bayes_average_rating
+total_owners
+total_traders
+total_wanters
+total_wishers
+total_comments
+total_weights
+average_weight
+
