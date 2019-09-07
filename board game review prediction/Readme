@@ -2,5 +2,8 @@ In this project average rating of board games is predicted using other independe
 using Randomforest, KNN & linear regression models. Their performance is compared with each other.
 
 The data-set is scraped by Sean Beck, github username "ThaWeatherman", (https://github.com/ThaWeatherman). The data-set is also uploaded on
-Kaggle. The notebook uploaded is generated on the Kaggle itself.
+Kaggle. I used Kaggle notebook for this project, link for which is copied below.
+(https://www.kaggle.com/shivamm207/board-game-review-prediction)
+
+
 Description of the steps and analysis can be found on the uploaded notebook.
