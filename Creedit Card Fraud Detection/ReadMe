@@ -1,0 +1,7 @@
+In this project, an analysis is done to detect fraudlent credit card transaction. The project was originally done on Kaggle using the
+credit card data-set uploaded by Machine Learning Group (ULB) {http://mlg.ulb.ac.be/}.
+
+Naive bayes based classifier model is used to achieve this task. The data-set is highly imbalanced with fraudlent transaction accounting
+for very small percentage of the data. Synthetic minority oversampling technique (SMOTE) is used to oversample the minority data, initially
+an exploratory data analysis is done.
+
